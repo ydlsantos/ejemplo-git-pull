@@ -1,0 +1,3 @@
+Este es un texto sin importancia
+
+solo fue creado a modo de prueba para el uso del comando FETCH
